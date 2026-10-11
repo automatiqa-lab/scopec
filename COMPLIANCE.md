@@ -22,7 +22,7 @@ Recorded 2026-10-11.
 
 | Obligation | Applies | How this project meets it |
 |---|---|---|
-| Art. 50(1) interaction disclosure | yes, once the assistant ships | The assistant identifies itself as AI at the start of every session |
+| Art. 50(1) interaction disclosure | yes, once the assistant and agents ship | The assistant identifies itself as AI at the start of every session; agent messages to suppliers and colleagues carry the readable AI-generated line |
 | Art. 50(2) machine-readable marking | yes | Disclosure middleware at the agent boundary; metadata in every export path (JSON, HTML, Markdown, PDF, XLSX, PPTX) and in the action ledger |
 | Art. 50(4) deployer disclosure | deployer-side | See "What remains the deployer's job" |
 | Art. 4 AI literacy | yes | This file, the README section and the glass box explanations |
@@ -81,3 +81,4 @@ first agent commit).
 | 2026-10-11 | Classified as provider of the content-generating system once agents ship; Annex III screened negative | Agents and assistant draft text with a model the operator chooses |
 | 2026-10-11 | Deterministic and statistical outputs carry ledger provenance, not an AI label | They are planning numbers, not synthetic text; blanket labels mislead |
 | 2026-10-11 | Disclosure middleware is wired before the first agent commit | Retrofitting a boundary leaves paths uncovered |
+| 2026-10-11 | Agentic execution layer (stage 2): agents act on kernel exceptions through the typed, allowlisted kernel API under an autonomy ladder with a kill switch per agent; every quantity comes from a solver or provider | An agent can do nothing a planner could not, and every action is a ledger event; the model drafts and chooses, it never produces a number |

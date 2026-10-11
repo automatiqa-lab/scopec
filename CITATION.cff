@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: SCOPEC
-abstract: "SCOPEC (Supply Chain Operations Planning & Execution in Commodities) runs S&OP and S&OE on one planning kernel and one data model, with commodity families held as data profiles - soft commodities first, hard commodities next."
+abstract: "SCOPEC (Supply Chain Operations Planning & Execution in Commodities) runs S&OP and S&OE on one planning kernel and one data model, with commodity families held as data profiles, a network twin that tests every plan, and agents that act on exceptions under an earned autonomy ladder."
 type: software
 authors:
   - family-names: Sidorecs
