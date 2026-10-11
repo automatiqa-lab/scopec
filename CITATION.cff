@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: SCOPEC
+abstract: "SCOPEC (Supply Chain Operations Planning & Execution in Commodities) runs S&OP and S&OE on one planning kernel and one data model, with commodity families held as data profiles - soft commodities first, hard commodities next."
+type: software
+authors:
+  - family-names: Sidorecs
+    given-names: Aleks
+repository-code: "https://github.com/automatiqa-lab/scopec"
+url: "https://www.automatiqa.io/scopec/"
+license: Apache-2.0
+keywords:
+  - supply-chain
+  - commodities
+  - sales-and-operations-planning
+  - sales-and-operations-execution
+  - supply-chain-planning
+  - soft-commodities
+  - hard-commodities
+date-released: 2026-10-11

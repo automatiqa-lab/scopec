@@ -1,0 +1,15 @@
+# SCOPEC
+
+> SCOPEC (Supply Chain Operations Planning & Execution in Commodities) is a supply chain operations planning and execution tool for commodities. One planning kernel runs S&OP and S&OE on the same data model, and commodity families live in domain profiles as data, not code - soft commodities first, hard commodities next.
+
+In development, about 20%. Built in public by Aleks Sidorecs as part of Automatiqa Lab, Apache-2.0. Physical planning only: hedging, mark-to-market and the trading book stay in the CTRM and enter as parameters and scenarios. Energy is out of scope.
+
+## Docs
+- [README](https://github.com/automatiqa-lab/scopec/blob/main/README.md): why it exists, how it works keyed to the system schematic, roadmap, status
+- [System schematic](https://github.com/automatiqa-lab/scopec/blob/main/docs/scopec-how-it-works-aleks-sidorecs.png): inputs, domain profile, planning kernel, two horizons, action ledger and glass box
+- [COMPLIANCE.md](https://github.com/automatiqa-lab/scopec/blob/main/COMPLIANCE.md): EU AI Act Article 50 classification and carve-outs
+
+## More
+- [Project page](https://www.automatiqa.io/scopec/): the project on automatiqa.io
+- [Auspex](https://github.com/automatiqa-lab/auspex): the optional prediction service SCOPEC binds to
+- [Automatiqa Lab](https://www.automatiqa.io): every project and its status
